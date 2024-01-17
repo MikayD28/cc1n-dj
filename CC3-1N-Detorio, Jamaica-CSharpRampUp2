@@ -72,7 +72,7 @@ class Program
 
 // Part 2
    // Number Pattern Using A Loop
-        Console.Write("Enter a positive integer: ");
+        Console.Write("Enter a number: ");
         int input = int.Parse(Console.ReadLine());
 
         if (input <= 0)
@@ -94,7 +94,7 @@ class Program
     Console.WriteLine("====================================================");
 
         // Number Pattern Using A Loop
-        Console.Write("Enter a positive integer: ");
+        Console.Write("Enter a number: ");
         int input = int.Parse(Console.ReadLine());
 
         if (input <= 0)
@@ -116,7 +116,7 @@ class Program
     Console.WriteLine("====================================================");
 
         // Number Pattern Using A Loop
-        Console.Write("Enter a positive integer: ");
+        Console.Write("Enter a number: ");
         int input = int.Parse(Console.ReadLine());
 
         if (input <= 0)
